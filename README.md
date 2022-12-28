@@ -1,14 +1,14 @@
 # Hi ! I'm Surin🌼
-<img src="https://img.shields.io/badge/-blog%E2%99%A1-%23ffff40"">
 
+ [![Rin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RinRinPARK&show_icons=true&theme=테마a&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rinrin8019)](https://solved.ac/rinrin8019/)
 ***
 
 
 ## 🧡My profile💛
-***
 
 ### 🏫Education
-* Soongsil University Industrial and Information Engineering & Computer Science Engineering (2021.03 ~)
+* Soongsil University Industrial and Information Engineering & Computer Science Engineering (2021.03 ~ )
 
 
 ### 👩🏻‍💻Experience
