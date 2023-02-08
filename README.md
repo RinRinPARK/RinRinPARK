@@ -8,7 +8,7 @@
 ## 🧡My profile💛
 
 ### 🏫Education
-* Soongsil University Industrial and Information Engineering & Computer Science Engineering (2021.03 ~ )
+* Soongsil University Industrial and Information System Engineering & Computer Science Engineering (2021.03 ~ )
 
 ### ✏️Studying
 <div>
