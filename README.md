@@ -1,7 +1,6 @@
 # Hi ! I'm Surin🌼
 
  [![Rin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RinRinPARK&show_icons=true&theme=테마a&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rinrin8019)](https://solved.ac/rinrin8019/)
 ***
 
 
